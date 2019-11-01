@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "netlify-lambda": "^1.6.3"
+  },
+  "name": "feedbackstreet-boys-functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "netlify-lambda serve functions",
+    "build": "netlify-lambda build functions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeyParton/feedbackstreet-boys-functions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeyParton/feedbackstreet-boys-functions/issues"
+  },
+  "homepage": "https://github.com/MikeyParton/feedbackstreet-boys-functions#readme",
+  "description": ""
+}
